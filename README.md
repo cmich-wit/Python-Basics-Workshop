@@ -59,7 +59,8 @@ By the end of this series, participants should be able to:
 - Build simple interactive programs
 - Continue their Python journey with confidence
 
-##🧑‍💻 Author & Credits
+## 🧑‍💻 Author & Credits
+
 Author: Cora Bangert
 
 Created and presented by the Women in Technology (WiT) organization at Central Michigan University.
