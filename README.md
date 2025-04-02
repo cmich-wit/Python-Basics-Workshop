@@ -64,4 +64,4 @@ By the end of this series, participants should be able to:
 Author: Cora Bangert
 
 Created and presented by the Women in Technology (WiT) organization at Central Michigan University.
-This project is part of our initiative to make AI accessible, encourage experimentation, and inspire innovation among underrepresented groups in tech.
+We're committed to supporting women in STEM through mentorship, community, and practical learning experiences.
