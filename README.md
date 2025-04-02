@@ -6,16 +6,12 @@
 ## 📌 Overview
 This educational mini-series was designed by the **Women in Technology (WiT)** organization at **Central Michigan University** to introduce beginners to Python programming in a fun, interactive, and supportive environment. The materials span basic Python concepts, hands-on exercises, and real-world challenges, fostering both learning and community engagement.
 
----
-
 ## 🎯 Purpose
 The purpose of this workshop series is to:
 - Introduce **basic programming principles** using Python
 - Empower students from **non-traditional or underrepresented backgrounds**
 - Foster curiosity and confidence through **hands-on activities**
 - Create a **safe space** for trying, failing, and growing with code
-
----
 
 ## 📁 Materials
 
@@ -37,8 +33,6 @@ The purpose of this workshop series is to:
   - Example projects: Rock-Paper-Scissors
   - Python challenge prompts for beginners
 
----
-
 ### 📓 Jupyter Notebooks
 #### `TeachingPython.ipynb`
 - **Hands-on lesson notebook** used to demonstrate Python basics interactively.
@@ -49,16 +43,12 @@ The purpose of this workshop series is to:
 - Reinforces topics covered in presentations.
 - Includes guided instructions and starter code to help learners build confidence.
 
----
-
 ## 🔧 Requirements
 
 - **Google Colab (recommended)** for easy cloud-based Python coding
 - Or install Python locally via [python.org](https://www.python.org)
   - IDEs like **VS Code** or **Jupyter Notebook**
   - Libraries: `numpy`, `random`
-
----
 
 ## ✅ Learning Outcomes
 
@@ -69,9 +59,7 @@ By the end of this series, participants should be able to:
 - Build simple interactive programs
 - Continue their Python journey with confidence
 
----
-
-🧑‍💻 Author & Credits
+##🧑‍💻 Author & Credits
 Author: Cora Bangert
 
 Created and presented by the Women in Technology (WiT) organization at Central Michigan University.
